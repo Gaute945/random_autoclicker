@@ -1,0 +1,1 @@
+# Antivirus may trigger because there is compiled python of autoclicker.py in the form of autoclicker (255).exe
