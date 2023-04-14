@@ -1,6 +1,5 @@
-__autoclicker and anti afk__
-
-# Antivirus may trigger because there is compiled python of autoclicker.py in the form of autoclicker (255).exe
+#__autoclicker and anti afk__
+##### Antivirus may trigger because there is compiled python of autoclicker.py in the form of autoclicker (255).exe
 
 ##### How to use
 1. pip install requirements.txt
@@ -14,5 +13,5 @@ __autoclicker and anti afk__
 5. Press your new hotkey to test it out, and it should open the program or web page you specified
 
 ##### Credit for add hotkey guid
-* add-custom-hotkeys-windows-10
-[Matthew](https://www.alphr.com/add-custom-hotkeys-windows-10/)
+* Matthew
+[add-custom-hotkeys-windows-10](https://www.alphr.com/add-custom-hotkeys-windows-10/)
