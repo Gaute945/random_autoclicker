@@ -1,5 +1,5 @@
 # __autoclicker and anti afk__
-##### Antivirus may trigger because there is compiled python of autoclicker.py in the form of autoclicker (255).exe
+##### Antivirus may trigger because there is a compiled python as an unsigned .exe
 
 ##### How to use
 1. pip install requirements.txt
